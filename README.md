@@ -31,4 +31,9 @@ As we can see from the image above, it looks like, in general we have a variance
 
 ![image](https://user-images.githubusercontent.com/93171738/159548540-af9751c4-ab45-4d5e-a1ca-9540211677d4.png)
 
-dddd
+Now, as we can see from the image above it appears that there is a problem with lot 3. While we can see lot 1 and lot 2 are well below our specifications of a variance of 100 PSI or below, lot 3 shows a varience of 170.29 PSI. 
+
+From this we can conclude that the data from lot 3 is not meeting our design specifications. 
+
+# Deliverable 3: T-Test on Suspension Coils
+***Run t-tests to determine if the manufacturing lots are statistically different from the mean popluation.
