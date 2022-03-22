@@ -28,3 +28,7 @@ According to the Multiple R-squared value of 0.7149 we can conclude that we have
 ![image](https://user-images.githubusercontent.com/93171738/159389678-4d57eca6-7033-40ad-9077-5ff2c2755c16.png)
 
 As we can see from the image above, it looks like, in general we have a variance of under 100 pounds per square inch for all 3 manufacturing lots. Therefore, on the surface it looks like we have met the minimum design specifications for the MechaCar.
+
+![image](https://user-images.githubusercontent.com/93171738/159548540-af9751c4-ab45-4d5e-a1ca-9540211677d4.png)
+
+dddd
