@@ -2,7 +2,7 @@
 Demonstration of R and it's statistical test capabilities.
 
 ## Background
-A few weeks after starting his new role, Jeremy is approached by upper management about a special project. AutosRUsâ€™ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing teamâ€™s progress. AutosRUsâ€™ upper management has called on Jeremy and the data analytics team to review the production data for insights that may help the manufacturing team.
+A few weeks after starting his new role, Jeremy is approached by upper management about a special project. AutosRUs™ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing teamâ€™s progress. AutosRUs™ upper management has called on Jeremy and the data analytics team to review the production data for insights that may help the manufacturing team.
 
 ## Deliverables 
 
@@ -24,3 +24,6 @@ According to the Multiple R-squared value of 0.7149 we can conclude that we have
 
 # Deliverable 2: Summary Statistics on Suspension Coils
 ***Perform summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.***
+
+![image](https://user-images.githubusercontent.com/93171738/159389200-fd92b3a4-d01d-4800-91a5-9c9b11bdaf56.png)
+As we can see from the image above, it looks like, in general we have a variance of under 100 pounds per square inch for all 3 manufacturing lots. Therefore, on the surface it looks like we have met the minimum design specifications for the MechaCar.
