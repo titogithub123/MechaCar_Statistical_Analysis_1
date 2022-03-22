@@ -25,5 +25,6 @@ According to the Multiple R-squared value of 0.7149 we can conclude that we have
 # Deliverable 2: Summary Statistics on Suspension Coils
 ***Perform summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.***
 
-![image](https://user-images.githubusercontent.com/93171738/159389200-fd92b3a4-d01d-4800-91a5-9c9b11bdaf56.png)
+![image](https://user-images.githubusercontent.com/93171738/159389507-e24220b0-6e46-4427-834b-dd0fc7cb5092.png)
+
 As we can see from the image above, it looks like, in general we have a variance of under 100 pounds per square inch for all 3 manufacturing lots. Therefore, on the surface it looks like we have met the minimum design specifications for the MechaCar.
