@@ -42,4 +42,8 @@ From this we can conclude that the data from lot 3 is not meeting our design spe
 
 From the image above we can see that as a whole, all manufacturing lots are NOT significantly different from the popluation mean (with a p-value of 0.060)
 
+![image](https://user-images.githubusercontent.com/93171738/159799353-b8c2a7a3-4dbc-48ff-ae78-922f3b7d8865.png)
+
+Here we can see that Lot 1 is NOT significantly different fromt the popluation mean (with a p-value of 1)
+
 
